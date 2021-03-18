@@ -1,0 +1,9 @@
+prova:A prova esta marcada para dia 14/06/2020
+Boa Noite:Boa Noite a Todos
+Boa noite:Boa Noite a Todos
+boa noite:Boa Noite a Todos
+Tudo bem?:Tudo Otimo! E você como esta?
+Tudo Bem?:Tudo Otimo! E você como esta?
+tudo bem?:Tudo Otimo! E você como esta?
+tudo bem:Tudo Otimo! E você como esta?
+Pode adiar a prova professor:A prova ja foi adiada , nao posso adiar novamente
